@@ -66,6 +66,33 @@ h2{
     width: 85%;
 }
 
-.experince-area{
+
+.third-part{
+    margin:auto;
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+  
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+    border-style: double;
+    border-radius: 20px;
+}
+h3{
+    text-align: center;
+    border-bottom:1px  dotted #ddd;
+}
+.third{
+    color: tomato;
+}
+.fix-left {
+    margin-top: -78px;
+    margin-left: 37px;
     float: left;
+    border-bottom: 1px outset #ddd;
+}
+.center{
+    text-align: center;
 }
