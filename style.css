@@ -77,8 +77,14 @@ h2{
 h2{
     font-weight: bold;
     text-align: center;
-    border-style: double;
+    border-style: dotted dashed solid double;
     border-radius: 20px;
+}
+#third{
+    border-bottom: 3px solid red;
+}
+#third-one{
+    border-bottom: 3px solid green;
 }
 h3{
     text-align: center;
@@ -95,4 +101,53 @@ h3{
 }
 .center{
     text-align: center;
+}
+.experince-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.another-part{
+    background-image: url(images/second-part.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.fotter-parat {
+    background-image: url(images/pro5.png);
+    margin-top: -86px;
+}
+
+.fotter{
+    
+    margin-left: 26px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    border-bottom-left-radius: 20px;
+}
+h6{
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    
+   
+}
+#last{
+    border-left: 3px solid ;
+    border-color: green;
+    border-right: 3px solid red;
+
+}
+
+.last {
+    width: 377px;
+    padding: 13px;
+    box-shadow: 9px 8px 40px tomato;
+   
+}
+.copyrights{
+    text-align:center;
 }
